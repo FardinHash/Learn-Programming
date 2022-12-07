@@ -27,3 +27,13 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - <a href='https://www.youtube.com/@BroCodez'>Bro Code</a>
 - <a href='https://www.youtube.com/@Telusko'>Telusko</a>
 - <a href='https://www.youtube.com/@CSDojo'>CS Dojo</a>
+---
+
+# Practice
+- <a href="https://www.leetcode.com">LeetCode</a>
+- <a href="https://www.hackerrank.com">HackerRank</a>
+- <a href="https://www.codechef.com">CodeChef</a>
+- <a href="https://www.codeforces.com">Codeforces</a>
+- <a href="https://www.topcoder.com">Topcoder</a>
+- <a href="https://www.hackerearth.com">HackerEarth</a>
+- <a href="https://www.coderbyte.com">Coderbyte</a>
