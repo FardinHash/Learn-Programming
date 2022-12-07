@@ -5,6 +5,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - <a href="https://www.udemy.com">Udemy</a>
 - <a href="https://www.edx.org">EdX</a>
 - <a href="https://www.datacamp.com">Datacamp</a>
+- <a href="https://www.educative.io">Educative</a>
 - <a href="https://www.w3schools.com">W3Schools</a>
 - <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a>
 - <a href="https://www.sololern.com">Sololearn</a>
