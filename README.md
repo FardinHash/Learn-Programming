@@ -29,7 +29,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - <a href='https://www.youtube.com/@CSDojo'>CS Dojo</a>
 ---
 
-# Practice
+# Problem Solving
 - <a href="https://www.leetcode.com">LeetCode</a>
 - <a href="https://www.hackerrank.com">HackerRank</a>
 - <a href="https://www.codechef.com">CodeChef</a>
@@ -37,3 +37,19 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - <a href="https://www.topcoder.com">Topcoder</a>
 - <a href="https://www.hackerearth.com">HackerEarth</a>
 - <a href="https://www.coderbyte.com">Coderbyte</a>
+---
+
+# MCQ Practice
+- <a href="https://www.sanfoundry.com">Sanfoundry</a>
+- <a href="https://www.interviewbit.com">InterviewBit</a>
+- <a href="https://www.geeksforgeeks.org">GeeksforGeeks</a>
+- <a href="https://www.cppbuzz.com">CppBuzz</a>
+---
+
+# Applications
+- Sololearn
+- Programming Hub
+- Programming Hero
+- Codecademy Go
+- Mimo
+- Khan Academy
