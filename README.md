@@ -12,7 +12,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - [Guidelines for Effective Learning](#guidelines-for-effective-learning)
 - [User Recommendations](#user-recommendations)
 
-## Websites 🌐
+## Websites 
 
 - [Coursera](https://www.coursera.org)
 - [Udemy](https://www.udemy.com)
@@ -28,7 +28,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - [Inprogrammer](https://www.inprogrammer.com)
 - [Studytonight](https://www.studytonight.com)
 
-## YouTube Channels 🎥
+## YouTube Channels 
 
 - [CodeWithHarry](https://www.youtube.com/CodeWithHarry)
 - [EdX](https://www.youtube.com/edx)
@@ -41,7 +41,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - [Telusko](https://www.youtube.com/@Telusko)
 - [CS Dojo](https://www.youtube.com/@CSDojo)
 
-## Problem Solving Platforms 🧠
+## Problem Solving Platforms 
 
 - [LeetCode](https://www.leetcode.com)
 - [HackerRank](https://www.hackerrank.com)
@@ -51,14 +51,14 @@ Sometimes we all used to face the limitation of resources or we can not find the
 - [HackerEarth](https://www.hackerearth.com)
 - [Coderbyte](https://www.coderbyte.com)
 
-## MCQ Practice Platforms 📝
+## MCQ Practice Platforms 
 
 - [Sanfoundry](https://www.sanfoundry.com)
 - [InterviewBit](https://www.interviewbit.com)
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 - [CppBuzz](https://www.cppbuzz.com)
 
-## Learning Applications 📱
+## Learning Applications 
 
 - [Sololearn](https://www.sololearn.com)
 - [Programming Hub](https://www.programminghub.io)
@@ -79,7 +79,7 @@ Sometimes we all used to face the limitation of resources or we can not find the
 
 ## Community Resources
 
-### Online Communities and Forums 🌐
+### Online Communities and Forums 
 
 - [Stack Overflow](https://stackoverflow.com/)
 - [Dev.to](https://dev.to/)
@@ -114,3 +114,13 @@ Have your own favorite resources to share? Feel free to contribute to this list 
 Feel free to explore these resources and elevate your programming journey!
 
 ---
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/fardinkai">LinkedIn</a>
+    &nbsp;&nbsp;
+    <a href="https://www.fardinai.me/">Website</a>
+    &nbsp;&nbsp;
+    <a href="https://www.facebook.com/fardinkai">Facebook</a>
+    &nbsp;&nbsp;
+    <a href="mailto:fardin.opai@gmail.com">Email</a>
+</div>
